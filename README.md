@@ -41,9 +41,9 @@ project/
 # 1. Clone the repository
 
 bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/Snehap36/flight-delay-prediction.git
+https://github.com/Snehap36/flight-delay-prediction.git
 cd flight-delay-prediction
-
 
 # 2. Install required libraries
 
